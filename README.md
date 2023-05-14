@@ -21,6 +21,6 @@ Title: Collaboration and Version Control with Git - CS50 Seminars 2021 \
 _Link_:https://youtu.be/S-gBbnBDUhA \
 b) Learning the basics of git and github \
 Title:An Introduction to Git and GitHub by Brian Yu \
-_Link:_https://youtu.be/MJUJ4wbFm_A \
+_Link_:https://youtu.be/MJUJ4wbFm_A \
 Takeaways: Git is local which you need to set up with git init, github is an online place with the repostiries being tracked, if git clone dont need to set up local 
 
