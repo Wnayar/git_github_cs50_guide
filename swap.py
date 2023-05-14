@@ -1,6 +1,7 @@
 print("Hello world")
 # hi
-x = 89
+
+x = 1000
 y = 50
 
 print("x is ", x)
