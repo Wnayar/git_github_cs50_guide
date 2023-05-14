@@ -2,9 +2,12 @@ print("Hello world")
 # hi
 
 def swap(a, b):
-    temp = a
-    a = b
-    b = temp
+    # temp = a
+    # a = b
+    # b = temp
+    global x
+    global y
+    x,y = y,x
 
 x = 1000
 y = 50
