@@ -28,5 +28,5 @@ c) Learnign how to create a pull request (directly pushing a new branch for exam
 Time stamp: @49.43 - 57.06 \
 Title: Collaboration and Version Control with Git - CS50 Seminars 2021 \
 _Link_: https://youtu.be/S-gBbnBDUhA
-Takeaway: This is good for open source collaboration allowing confirmation of the pull request before mergign that branch or fork into main. 
+Takeaway: This is good for open source collaboration allowing confirmation of the pull request before merging that branch or fork into main. 
 
