@@ -13,7 +13,7 @@ b) Title: Developing Your Project Locally with VS Code (Windows) - CS50 Seminars
 _Link:_ https://youtu.be/9yzQCgIdL-Y \
 Takeaway 1: Setting up windows susbsytem for linux with ubuntu to get the terminal CS50 uses which is linux and utilise linux in vscode \
 Takeaway 2: Learnign about apt-get being the genral packet manager, and for example pip3 is the packet manager within python \
-Takeaway 3: Installign relevant extensions in vscode that you want  
+Takeaway 3: Installing relevant extensions in vscode that you want  
 
 **2. Learn Git and Github** \
 a) Learnign how to create a github repository timestamp: @ 16.49 - 30.36 \
