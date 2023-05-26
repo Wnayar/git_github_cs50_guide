@@ -8,7 +8,7 @@ The following links were provided by CS50 which helped me learn how to achieve 1
 **1. Develop locally on a local vscode instead of cs50 virtual machine codespaces via github** \
 a) Downloading Windows Subsytem for Linux (WSL) \
 _Link:_ https://learn.microsoft.com/en-us/windows/wsl/about \
-Takeaway: WSL alone doesnt seem to run need to install ubuntu also \
+Takeaway: WSL alone doesnt run need to be hosted on ububtu:  install ubuntu also \
 b) Title: Developing Your Project Locally with VS Code (Windows) - CS50 Seminars 2021 \
 _Link:_ https://youtu.be/9yzQCgIdL-Y \
 Takeaway 1: Setting up windows susbsytem for linux with ubuntu to get the terminal CS50 uses which is linux and utilise linux in vscode \
