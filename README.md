@@ -1,32 +1,49 @@
-# git_github_cs50_guide
-Basic testing of command line inputs to learn about Git and Github via CS50
-For the CS50 final project my goal was to: \
-**1. Develop Locally** \
-**2. Learn Git and Github** \
-The following links were provided by CS50 which helped me learn how to achieve 1. and 2. stated above. 
+# Git & GitHub Learning Guide
 
-**1. Develop locally on a local vscode instead of cs50 virtual machine codespaces via github** \
-a) Downloading Windows Subsytem for Linux (WSL) \
-_Link:_ https://learn.microsoft.com/en-us/windows/wsl/about \
-Takeaway: WSL alone doesnt run need to be hosted on ububtu:  install ubuntu also \
-b) Title: Developing Your Project Locally with VS Code (Windows) - CS50 Seminars 2021 \
-_Link:_ https://youtu.be/9yzQCgIdL-Y \
-Takeaway 1: Setting up windows susbsytem for linux with ubuntu to get the terminal CS50 uses which is linux and utilise linux in vscode \
-Takeaway 2: Learnign about apt-get being the genral packet manager, and for example pip3 is the packet manager within python \
-Takeaway 3: Installing relevant extensions in vscode that you want  
+A comprehensive guide documenting the journey of learning Git, GitHub, and local development environments through CS50 resources.
 
-**2. Learn Git and Github** \
-a) Learnign how to create a github repository \
-Timestamp: @ 16.49 - 30.36 \
-Title: Collaboration and Version Control with Git - CS50 Seminars 2021 \
-_Link_: https://youtu.be/S-gBbnBDUhA \
-b) Learning the basics of git and github \
-Title:An Introduction to Git and GitHub by Brian Yu \
-_Link_: https://youtu.be/MJUJ4wbFm_A \
-Takeaway: Git is local which you need to set up with git init, github is an online place with the repostiries being tracked, if git clone dont need to set up local \
-c) Learnign how to create a pull request (directly pushing a new branch for exampel or fork into the main branch) \
-Time stamp: @49.43 - 57.06 \
-Title: Collaboration and Version Control with Git - CS50 Seminars 2021 \
-_Link_: https://youtu.be/S-gBbnBDUhA
-Takeaway: This is good for open source collaboration allowing confirmation of the pull request before merging that branch or fork into main. 
+## Overview
 
+This repository serves as a learning resource for developers transitioning from cloud-based development environments to local development workflows. The guide focuses on two primary objectives:
+
+1. **Setting Up Local Development Environment**
+2. **Mastering Git and GitHub Workflows**
+
+## 1. Local Development Setup
+
+### Windows Subsystem for Linux (WSL)
+
+**Resource:** [Microsoft WSL Documentation](https://learn.microsoft.com/en-us/windows/wsl/about)
+
+**Key Takeaway:** WSL requires a Linux distribution (such as Ubuntu) to function properly. Both WSL and Ubuntu need to be installed to create a complete development environment.
+
+### VS Code Configuration for Local Development
+
+**Resource:** [Developing Your Project Locally with VS Code (Windows) - CS50 Seminars 2021](https://youtu.be/9yzQCgIdL-Y)
+
+**Key Takeaways:**
+- Configure Windows Subsystem for Linux with Ubuntu to access the Linux terminal environment used in CS50
+- Understand package managers: `apt-get` serves as the general package manager for Linux, while language-specific managers like `pip3` handle Python packages
+- Install and configure relevant VS Code extensions to enhance your development workflow
+
+## 2. Git and GitHub Fundamentals
+
+### Creating a GitHub Repository
+
+**Resource:** [Collaboration and Version Control with Git - CS50 Seminars 2021](https://youtu.be/S-gBbnBDUhA) (Timestamp: 16:49 - 30:36)
+
+### Git and GitHub Basics
+
+**Resource:** [An Introduction to Git and GitHub by Brian Yu](https://youtu.be/MJUJ4wbFm_A)
+
+**Key Takeaway:** Git operates locally and requires initialization with `git init` for new projects. GitHub serves as a remote repository hosting service. When cloning an existing repository with `git clone`, local Git setup is handled automatically.
+
+### Pull Requests and Collaboration
+
+**Resource:** [Collaboration and Version Control with Git - CS50 Seminars 2021](https://youtu.be/S-gBbnBDUhA) (Timestamp: 49:43 - 57:06)
+
+**Key Takeaway:** Pull requests enable collaborative development by allowing code review and approval before merging branches or forks into the main branch. This workflow is essential for open-source collaboration and team-based development.
+
+## Purpose
+
+This guide was created as part of a CS50 final project to document the learning process and serve as a reference for others transitioning to professional development workflows.
